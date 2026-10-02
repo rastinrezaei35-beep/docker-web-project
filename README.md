@@ -37,7 +37,7 @@ curl http://localhost:8084
 
 Browser
    ↓
-Host Port 8081
+Host Port 8084
    ↓
 Docker Container
    ↓
